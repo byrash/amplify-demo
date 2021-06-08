@@ -36,3 +36,16 @@
     transform: rotate(360deg);
   }
 }
+
+
+.colorButton {
+  border: 0;
+  width: 200px;
+  padding: 15px 20px;
+  font-size: 2rem;
+  text-align: center;
+  color: #fff;
+  border-radius: 10px;
+  background-color: rgba(220, 0, 0, 1);
+}
+
